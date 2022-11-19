@@ -13,7 +13,7 @@ Comandos para guardar y salir:
 -ESC + :  + q (salir)
 ![image](https://user-images.githubusercontent.com/91167870/202856953-7b72788d-a338-484d-af70-afe21381e4b6.png)
 
-                                                        Ejecutamos el comando docker-compose up -d 
+                                                        Ejecutamos el comando docker-compose up -d y descargamos
  ![image](https://user-images.githubusercontent.com/91167870/202856969-b2245058-780b-48be-b16a-1c13896d99fc.png)
 ![image](https://user-images.githubusercontent.com/91167870/202856972-07d56e55-fa7b-425f-b71f-d4ba1c5f52e3.png)
 
